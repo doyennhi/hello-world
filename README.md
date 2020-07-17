@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi there!
+i'm truly falling in love with doing nothing ^^
